@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Web Developer Eager to Transform Ideas into Digital Realities.<br><br> 🚀 Learning React Native, Next.js, and MERN<br>👥 Seeking Collaborative Projects<br>🌱 Expanding Skills in Next.js, Three.js, Redux, GraphQL<br>🧭 On the Hunt for Full-Stack or Front-End Web Dev Jobs<br>💡 Ask Me About Next.js, Three.js, MERN, Redux, or GraphQL<br>⚡ Passionate About Crafting Immersive Web Experiences
+Passionate Web Developer Eager to Transform Ideas into Digital Realities.<br><br> 🚀 Learning React Native<br>👥 Seeking Collaborative Projects<br>🌱 Expanding Skills in Next.js, Three.js, GraphQL<br>🧭 On the Hunt for Full-Stack or Front-End Web Dev Jobs<br>💡 Ask Me About Next.js, React.js, Javascript, Three.js<br>⚡ Passionate About Crafting Immersive Web Experiences
 
 
 # 💻 Tech Stack:
