@@ -7,7 +7,7 @@ I work with **React, Next.js, Node, and a bit of AI stuff**. I love exploring ne
 
 🔭 Currently playing around with React Native + AI APIs <br>
 👯 Looking to collaborate on open-source web projects <br>
-🌱 Learning Three.js, GraphQL, and Web3 basics <br>
+🌱 Learning Flutter, GraphQL, and Web3 basics <br>
 💬 Ask me about React | Next.js | JavaScript | TypeScript | MongoDB <br>
 
 # 💻 Tech Stack:
